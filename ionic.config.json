@@ -1,0 +1,7 @@
+{
+  "name": "TestNotification",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
