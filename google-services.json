@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1082999739217",
+    "firebase_url": "https://testnotification-5a143.firebaseio.com",
+    "project_id": "testnotification-5a143",
+    "storage_bucket": "testnotification-5a143.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082999739217:android:4cf6834e6e565cb7",
+        "android_client_info": {
+          "package_name": "test.notification.subha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082999739217-a1dv224dqi695ccd0v9cokff3o1o6h6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBRT4fGbBaalGES1q9cps4epk7S2v_K5s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
